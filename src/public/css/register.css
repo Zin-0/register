@@ -1,0 +1,48 @@
+.registration {
+    padding: 20px 0 40px;
+    text-align: center;
+}
+.registration-form-top {
+    margin: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.registration-form-item {
+    width: 100%;
+    padding: 15px;
+}
+.form-item {
+    border: 2px solid #9c9c9c;
+    border-radius: 6px;
+    padding: 0 15px;
+    height: 50px;
+    width: 400px;
+    color: #525252;
+    background-color: #ececec;
+    font-size: 16px
+}
+.form-btn {
+    border-radius: 6px;
+    padding: 0 10px;
+    width: 400px;
+    height: 50px;
+    background: #271cff;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.login-text {
+    margin: 20px 0 0;
+    color: #9c9c9c;
+}
+.login-btm a {
+    text-decoration: none;
+    color: #271cff;
+}
+.form-error {
+    margin: 5px auto 0;
+    width: 400px;
+    color: #ff1616;
+    font-weight: bold;
+}
